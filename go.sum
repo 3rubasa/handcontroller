@@ -1,0 +1,4 @@
+bitbucket.org/gmcbay/i2c v0.0.0-20130111033438-1235f1776ee7 h1:tI4wHghrtS99oeFYK9ttoyro7i9UBXarUaH+VT/xgYE=
+bitbucket.org/gmcbay/i2c v0.0.0-20130111033438-1235f1776ee7/go.mod h1:y8VEJIOQsxe20Pk6RtVeeRl4DkVq+lfRROrQCF+ApZU=
+github.com/3rubasa/go-servo-picobber v0.0.0-20230109171136-14f45fbd723f h1:RhtDOYC2lqv9k7abtgpIE1tKpH26ySEd/lbm4HUp2Eg=
+github.com/3rubasa/go-servo-picobber v0.0.0-20230109171136-14f45fbd723f/go.mod h1:bHgrAy3TmI2C5likUslpN0DnTo0vPPeaIcLtMg6YbLo=
